@@ -1,0 +1,24 @@
+{
+  "title": "Bicomposite Nanotherapeutic Architecture with Kinetic Targeting, Molecular Biocomputing, Enzymatic Conditional Logic, and Programmatic Synthetic Lethality for Pancreatic Ductal Adenocarcinoma",
+  "upload_type": "software",
+  "version": "7.2.0",
+  "description": "Audited computational research package separating public human transcriptomic source data, derived bioinformatics outputs, and synthetic in-silico pharmacodynamic data. Computational proof of concept; not clinical validation.",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Moreno Sánchez-Campa, José María",
+      "orcid": "0009-0000-0927-7397"
+    }
+  ],
+  "keywords": [
+    "PDAC",
+    "pancreatic ductal adenocarcinoma",
+    "nanomedicine",
+    "ferroptosis",
+    "bioinformatics",
+    "Scanpy",
+    "GSE274103",
+    "synthetic data",
+    "reproducibility"
+  ]
+}
