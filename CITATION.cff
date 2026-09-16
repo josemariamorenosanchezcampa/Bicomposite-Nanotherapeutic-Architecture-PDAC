@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the associated Zenodo record."
+title: "Bicomposite Nanotherapeutic Architecture with Kinetic Targeting, Molecular Biocomputing, Enzymatic Conditional Logic, and Programmatic Synthetic Lethality for Pancreatic Ductal Adenocarcinoma"
+type: software
+version: "7.2.0-candidate"
+authors:
+  - family-names: "Moreno Sánchez-Campa"
+    given-names: "José María"
+license: CC-BY-4.0
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22035446"
+    description: "Source Zenodo v7.1 record audited by this candidate"

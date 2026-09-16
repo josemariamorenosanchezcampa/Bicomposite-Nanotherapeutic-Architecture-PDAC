@@ -1,0 +1,3 @@
+# Data provenance
+
+The v7.1 materials identify GEO series **GSE274103** and expect `GSM8443450_PDAC-p2_filtered_feature_bc_matrix.h5`; that matrix is not redistributed here. `cluster_7_differential_markers.csv` is preserved unchanged from v7.1 and contains 20 markers; MMP9 is not among them. `PDAC_In_Silico_Simulation_Data(101).xlsx` is preserved unchanged and contains 100 rows and 9 columns. The supplied v7.1 archive contains no generator script, random seed, experimental protocol, donor identifiers, or other provenance establishing those rows as measurements from 100 individual patient-derived organoids, so this candidate labels them synthetic/in-silico. No individual-level human data are redistributed here.
