@@ -1,7 +1,7 @@
 {
- "title": "Bicomposite Nanotherapeutic Architecture — v7.2.1",
+ "title": "Bicomposite Nanotherapeutic Architecture — v7.2.2",
   "upload_type": "software",
-  "version": "7.2.1",
+  "version": "7.2.2",
   "description": "Audited computational research package separating public human transcriptomic source data, derived bioinformatics outputs, and synthetic in-silico pharmacodynamic data. Computational proof of concept; not clinical validation.",
   "license": "cc-by-4.0",
   "creators": [
