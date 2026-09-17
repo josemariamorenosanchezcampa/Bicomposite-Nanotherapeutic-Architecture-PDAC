@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite the associated Zenodo record."
+message: "Please cite this software using the version-specific Zenodo DOI."
 title: "Bicomposite Nanotherapeutic Architecture"
 type: software
 version: "7.2.2"
@@ -8,7 +8,9 @@ authors:
     given-names: "José María"
     orcid: "https://orcid.org/0009-0000-0927-7397"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.22815764"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.20821490"
     description: "Zenodo concept DOI representing all versions"
+
