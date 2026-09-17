@@ -1,4 +1,4 @@
-# Bicomposite Nanotherapeutic Architecture — v7.2.1
+# Bicomposite Nanotherapeutic Architecture — v7.2.2
 
 Audited computational research package derived from Zenodo v7.1 (DOI: 10.5281/zenodo.22035446).
 
